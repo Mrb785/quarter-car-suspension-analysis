@@ -1,0 +1,20 @@
+# MATLAB / Simulink generated files
+*.asv
+*.autosave
+*.m~
+*.slxc
+*.sldd
+*.mex*
+*.p
+*.mltbx
+*.mat
+
+slprj/
+work/
+codegen/
+sfprj/
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,4 @@
+Metric,Simulation,Published_Reference,Percentage_Difference
+Maximum Sprung Displacement,0.0732,0.068,7.647058823529405
+Maximum Sprung Acceleration,8.0515,8.0,0.6437500000000096
+Maximum Unsprung Displacement,0.109,0.12,9.166666666666663
